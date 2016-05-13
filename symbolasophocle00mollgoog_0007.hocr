@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symbolasophocle00mollgoog_0007.png"; bbox 0 0 3125 4825; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 452 1146 1059 1242">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 1146 1059 1242">
+     <span class='ocr_line' id='line_1_1' title="bbox 452 1146 1059 1242; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 452 1146 577 1242; x_wconf 83' lang='lat' dir='ltr'>VIRIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 605 1147 752 1240; x_wconf 82' lang='lat' dir='ltr'><strong>SUMME</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 777 1148 1059 1241; x_wconf 82' lang='lat' dir='ltr'>REVERENDIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 290 1624 1351 2033">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 290 1624 1351 2033">
+     <span class='ocr_line' id='line_1_2' title="bbox 399 1624 1351 1768; baseline 0.003 -26"><span class='ocrx_word' id='word_1_4' title='bbox 399 1624 652 1744; x_wconf 64' lang='lat' dir='ltr'><strong>Fssonoflo</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 687 1626 760 1743; x_wconf 74' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 796 1626 1112 1744; x_wconf 74' lang='lat' dir='ltr'><strong>WUTHENAU</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1348 1763 1351 1768; x_wconf 50' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 290 1911 1212 2033; baseline 0.004 -4"><span class='ocrx_word' id='word_1_8' title='bbox 290 1911 539 2033; x_wconf 71' lang='lat' dir='ltr'>AUGUSTO</span> <span class='ocrx_word' id='word_1_9' title='bbox 574 1916 640 2032; x_wconf 76' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 673 1914 918 2032; x_wconf 73' lang='lat' dir='ltr'>ERNESTO</span> <span class='ocrx_word' id='word_1_11' title='bbox 953 1911 1212 2033; x_wconf 73' lang='lat' dir='ltr'><strong>BRAMIGK</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 514 2202 992 2344">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 514 2202 992 2344">
+     <span class='ocr_line' id='line_1_4' title="bbox 514 2202 992 2344; baseline -0.004 -20"><span class='ocrx_word' id='word_1_12' title='bbox 514 2202 791 2324; x_wconf 83' lang='lat' dir='ltr'>GUILELMO</span> <span class='ocrx_word' id='word_1_13' title='bbox 825 2203 992 2344; x_wconf 80' lang='lat' dir='ltr'>URSIN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 430 3120 1077 3208">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 430 3120 1077 3208">
+     <span class='ocr_line' id='line_1_5' title="bbox 430 3120 1077 3208; baseline 0.006 -4"><span class='ocrx_word' id='word_1_14' title='bbox 430 3122 707 3204; x_wconf 81' lang='lat' dir='ltr'>RIOARDUS</span> <span class='ocrx_word' id='word_1_15' title='bbox 732 3120 1077 3208; x_wconf 76' lang='lat' dir='ltr'><strong>MOILWEIDE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1568 4825">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1568 4825">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1568 4825; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1568 4825; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
